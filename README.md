@@ -20,3 +20,4 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 
 ## Compilation Command
 - `mvn clean install` - Plain maven clean and install
+"# spring-boot-rest-swager" 
