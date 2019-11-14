@@ -5,7 +5,7 @@ This project depicts the Spring Boot Example with Spring Data REST and JPA Examp
 This Project shows the list of Users which are stored in the In-Memory H2 Database. Using the following endpoints, different operations can be achieved:
 - `/users` - This returns the list of Users in the Users table which is created in H2
 - `/users/name/{name}` - This returns the details of the Users passed in URL
-- `/users/load` - Add new users using the Users model. eg. { "name": "Ajay", "teamName": "Development", "salary": 100 }
+- `/users/load` - Add new users using the Users model. eg. { "name": "Govind", "teamName": "Development", "salary": 100 }
 
 ## Libraries used
 - Spring Boot
